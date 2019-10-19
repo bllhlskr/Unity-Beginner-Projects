@@ -11,7 +11,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{06867C55-01BF-A61B-EBB9-FC885E8D055A}</ProjectGuid>
+    <ProjectGuid>{E02CA962-A218-9CD5-234E-558AD7F36F4B}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor-firstpass</AssemblyName>
@@ -69,28 +69,28 @@
     <Compile Include="Assets\Standard Assets\Editor\Water\Water4\WaterBaseEditor.cs" />
     <Compile Include="Assets\Standard Assets\Editor\Water\Water4\WaterEditorUtility.cs" />
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>/Users/bllhlskr/Desktop/unty/unity projects/3D Space Wars/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>/Users/bllhlskr/Documents/GitHub/metall number wizard/Unity-Beginner-Projects/3D Projects/Space Wars/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TerrainTools">
-      <HintPath>/Users/bllhlskr/Desktop/unty/unity projects/3D Space Wars/Library/ScriptAssemblies/Unity.TerrainTools.dll</HintPath>
+      <HintPath>/Users/bllhlskr/Documents/GitHub/metall number wizard/Unity-Beginner-Projects/3D Projects/Space Wars/Library/ScriptAssemblies/Unity.TerrainTools.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>/Users/bllhlskr/Desktop/unty/unity projects/3D Space Wars/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>/Users/bllhlskr/Documents/GitHub/metall number wizard/Unity-Beginner-Projects/3D Projects/Space Wars/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>/Users/bllhlskr/Desktop/unty/unity projects/3D Space Wars/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>/Users/bllhlskr/Documents/GitHub/metall number wizard/Unity-Beginner-Projects/3D Projects/Space Wars/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>/Users/bllhlskr/Desktop/unty/unity projects/3D Space Wars/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>/Users/bllhlskr/Documents/GitHub/metall number wizard/Unity-Beginner-Projects/3D Projects/Space Wars/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>/Users/bllhlskr/Desktop/unty/unity projects/3D Space Wars/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>/Users/bllhlskr/Documents/GitHub/metall number wizard/Unity-Beginner-Projects/3D Projects/Space Wars/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TerrainTools.Editor">
-      <HintPath>/Users/bllhlskr/Desktop/unty/unity projects/3D Space Wars/Library/ScriptAssemblies/Unity.TerrainTools.Editor.dll</HintPath>
+      <HintPath>/Users/bllhlskr/Documents/GitHub/metall number wizard/Unity-Beginner-Projects/3D Projects/Space Wars/Library/ScriptAssemblies/Unity.TerrainTools.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.DataPrivacy">
-      <HintPath>/Users/bllhlskr/Desktop/unty/unity projects/3D Space Wars/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+      <HintPath>/Users/bllhlskr/Documents/GitHub/metall number wizard/Unity-Beginner-Projects/3D Projects/Space Wars/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>/Applications/Unity/Hub/Editor/2019.1.10f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -306,19 +306,19 @@
       <HintPath>/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/MonoDevelop.Unity/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Advertisements">
-      <HintPath>/Users/bllhlskr/Desktop/unty/unity projects/3D Space Wars/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
+      <HintPath>/Users/bllhlskr/Documents/GitHub/metall number wizard/Unity-Beginner-Projects/3D Projects/Space Wars/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Tracker">
-      <HintPath>/Users/bllhlskr/Desktop/unty/unity projects/3D Space Wars/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Tracker.dll</HintPath>
+      <HintPath>/Users/bllhlskr/Documents/GitHub/metall number wizard/Unity-Beginner-Projects/3D Projects/Space Wars/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Tracker.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Editor">
-      <HintPath>/Users/bllhlskr/Desktop/unty/unity projects/3D Space Wars/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Editor.dll</HintPath>
+      <HintPath>/Users/bllhlskr/Documents/GitHub/metall number wizard/Unity-Beginner-Projects/3D Projects/Space Wars/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
-      <HintPath>/Users/bllhlskr/Desktop/unty/unity projects/3D Space Wars/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.StandardEvents.dll</HintPath>
+      <HintPath>/Users/bllhlskr/Documents/GitHub/metall number wizard/Unity-Beginner-Projects/3D Projects/Space Wars/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Purchasing">
-      <HintPath>/Users/bllhlskr/Desktop/unty/unity projects/3D Space Wars/Library/PackageCache/com.unity.purchasing@2.0.6/Editor/UnityEditor.Purchasing.dll</HintPath>
+      <HintPath>/Users/bllhlskr/Documents/GitHub/metall number wizard/Unity-Beginner-Projects/3D Projects/Space Wars/Library/PackageCache/com.unity.purchasing@2.0.6/Editor/UnityEditor.Purchasing.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.iOS.Extensions.Xcode">
       <HintPath>/Applications/Unity/Hub/Editor/2019.1.10f1/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
@@ -683,7 +683,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
-      <Project>{9099BD3D-3DF1-0214-639C-AF51073730CD}</Project>
+      <Project>{68F94085-DF6D-B3D2-4B71-D58AA4698F34}</Project>
       <Name>Assembly-CSharp-firstpass</Name>
     </ProjectReference>
   </ItemGroup>
